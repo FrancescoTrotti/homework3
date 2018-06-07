@@ -25,6 +25,7 @@ Per eseguire ORB_SLAM2 è necessario lanciare:
 - roscore su un terminale.<br>
 - rosrun ORB_SLAM2 Stereo Vocabulary/ORBvoc.txt Examples/Stereo/EuRoC.yaml true (su un secondo terminale).<br>
 - rosbag play PATH/V1_01_easy.bag /cam0/image_raw:=/camera/left/image_raw /cam1/image_raw:=/camera/right/image_raw (in un terzo terminale, dove PATH va sostituito con il percorso del file .bag, finito di eseguire la bag premere "Ctrl-c" per esportare il file .txt).<br>
+
 Andare nella directory pcl scaricata e ed eseguire il cmake per convertire il file .txt in .pcd e per compilre il codice per il clustering.<br>
 Andare nella cartella pcl/bin ed eseguire "./clustering".<br>
 
