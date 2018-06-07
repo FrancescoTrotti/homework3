@@ -35,7 +35,13 @@ Nella progettazione dell'homework3 è stato modificato il codice "System.cc", il
 Di seguito è stato implementato un codice "xyzTopcd.cpp" che converte il file .txt in .pcd.<br>
 Infine sono stati modificati i parametri del file "clustering.cpp" in modo tale da rappresentare al moglio possibile le nuvole di punti.<br> 
 
-#Immagini dimostartive:
+# Immagini dimostartive:
 
+![alt text](https://github.com/FrancescoTrotti/homework3/blob/master/Image/Orb_slam2.png)
+Esecuzione di ORB_SLAM2 con la bag "V1_01_easy.bag".<br>
+![alt text](https://github.com/FrancescoTrotti/homework3/blob/master/Image/Clustering_0.2.png)
+Cluster di punti con tolleranza 0.2.<br>
+![alt text](https://github.com/FrancescoTrotti/homework3/blob/master/Image/Clustering_0.15.png)
+Cluster di punti con tolleranza 0.15.<br>
 
 
